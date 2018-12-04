@@ -4,9 +4,11 @@
 以下のコードはtensorflowが必要です．
 - [多項式回帰](polynomial_regression.ipynb)
 - [パーセプトロンによる画像分類](NN_mnist.ipynb)
+- [畳み込みと転置畳み込み](convolution.ipynb)
 - [CNNによる画像分類](CNN_mnist.ipynb)
 - [VAEによる次元圧縮・画像生成](vae.ipynb)
-- [DCGANによる画像生成](DCGAN_mnist.ipynb)
+- [DCGANによる画像生成(MNIST)](DCGAN_mnist.ipynb)
+- [DCGANによる画像生成(アニメ顔)](DCGAN_animeface.ipynb)
 - [学習済みモデルによる特徴量抽出とSVMによる学習](imagenet_svm.ipynb)
 
 ## 時系列学習
