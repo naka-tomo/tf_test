@@ -1,11 +1,13 @@
 # ニューラルネット勉強用のコード
 使いやすさより，わかりやすさを優先して書いているつもりです．
 
+## 基本
+- [畳み込みと転置畳み込み](convolution.ipynb)
+
 ## 画像分類
 以下のコードはtensorflowが必要です．
 - [多項式回帰](polynomial_regression.ipynb)
 - [パーセプトロンによる画像分類](NN_mnist.ipynb)
-- [畳み込みと転置畳み込み](convolution.ipynb)
 - [CNNによる画像分類](CNN_mnist.ipynb)
 
 ## 画像生成
